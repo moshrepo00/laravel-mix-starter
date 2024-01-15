@@ -26,6 +26,8 @@
   },
   "dependencies": {
     "alpinejs": "^3.13.3",
-    "lodash": "^4.17.21"
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "tom-select": "^2.3.1"
   }
 }
